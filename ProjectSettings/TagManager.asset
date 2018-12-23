@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EndTile
+  - Coin
+  - GoldText
+  - FinishGate
+  - CanvasMaker
+  - Water
+  - FinalGate
+  - Enemy
+  - Destroy
+  - Bullet
+  - Fire
+  - WeponEnd
+  - Wepon
+  - SelfDestroy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer1
+    uniqueID: 3988094513
+    locked: 0
+  - name: New Layer
+    uniqueID: 296099911
+    locked: 0
